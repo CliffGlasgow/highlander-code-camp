@@ -1,0 +1,82 @@
+.navbar-brand{
+    color: red!important;
+}
+
+.navbar-brand span{
+    color: white;   
+}
+
+.icon-bar{
+    background: red!important;
+}
+
+#site-title{
+    text-align: center;
+    color: red;
+    background-color: #ccc;
+    margin-top: -20px;
+    padding: 10px 0px;
+}
+
+#three-images img{
+    box-shadow: 6px 5px 30px;
+    border: 5px solid red;
+    width: 100%;
+}
+
+#three-images p{
+    font-family: cursive;
+}
+
+#three-images h4{
+    text-align: center;
+}
+
+#three-images p{
+    text-align: justify;
+}
+
+#line-one{
+    border-top: 3px solid lime;
+}
+
+#line-two{
+    border-top: 3px dotted dodgerblue;
+}
+
+#line-three{
+    border-top: 3px dashed blue;
+}
+
+#line-four{
+    border-top: 3px solid crimson;
+}
+
+#line-five{
+    border-top: 3px solid darkblue;
+}
+
+#line-six{
+    border-top: 3px dotted green;
+}
+
+#three-images form, small{
+    font-size: 1.25em
+}
+
+.btn{
+    font-size: 1.25em;
+}
+
+iframe{
+    border: 3px dotted red;
+    box-shadow: 4px 5px 10px;
+}
+
+footer{
+    text-align: center;
+    background: black;
+    color: white;
+    margin-bottom: 1%;
+    padding-top: 2%;
+}
